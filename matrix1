@@ -17,5 +17,5 @@ result2 <- matrix1 - matrix2
 # Multiply the matrices
 result3 <- matrix1 * matrix2
 
-# Devide trhe matrices
+# Divide trhe matrices
 result4 <- matrix1 / matrix2
